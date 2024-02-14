@@ -10,7 +10,7 @@ pairs = [
     ],
     [
         r"what is your name?",
-        ["My name is Chatbot and I'm a chatbot.",]
+        ["My name is Chatbot and I'm a chatbot",]
     ],
     [
         r"how are you ?",
